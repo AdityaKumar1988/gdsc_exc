@@ -1,8 +1,6 @@
 
 # EcoTips
 
-This is a NextJS starter in Firebase Studio.
-
 ## Getting Started
 
 1.  **Clone the repository:**
